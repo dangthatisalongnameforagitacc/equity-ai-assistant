@@ -1,0 +1,85 @@
+BOARD RESOLUTION — ESOP POOL EXPANSION
+========================================
+TechVentures Pvt. Ltd.
+Board Meeting Date: December 15, 2023
+Venue: Registered Office, WeWork Galaxy, Residency Road, Bangalore
+Meeting No.: BM-2023-Q4-03
+
+PRESENT
+--------
+1. Rahul Sharma — Founder & CEO, Chairman of the Board
+2. Priya Patel — Founder & CTO, Director
+3. Amit Kumar — Founder & COO, Director
+4. Rajesh Menon — Independent Director
+5. Sarah Chen — Nominee Director (Sequoia Surge)
+6. Vikram Bajaj — Nominee Director (Accel Partners)
+7. Neha Gupta — Chief People Officer (Invitee, non-voting)
+
+QUORUM
+-------
+A quorum was confirmed with 6 out of 6 voting directors present.
+
+AGENDA ITEM 3: EXPANSION OF EMPLOYEE STOCK OPTION PLAN (ESOP) POOL
+=====================================================================
+
+BACKGROUND
+-----------
+The Chief People Officer presented the following to the Board:
+
+1. The current ESOP pool stands at 10% of the fully diluted share capital (1,000,000 options).
+2. Of these, 650,000 options (65%) have already been granted, leaving only 350,000 options available.
+3. With the company's aggressive hiring plan for 2024 (150+ new hires including 5 senior leadership positions), the remaining pool is insufficient.
+4. Industry benchmarks for Series B companies show ESOP pools of 12-18% of fully diluted capital.
+5. Key competitor companies (EquityZen, Carta, Qapita) maintain pools of 15-20%.
+
+PROPOSAL
+---------
+It is proposed to expand the ESOP pool from 10% to 15% of the fully diluted share capital by creating 555,556 additional stock options, bringing the total ESOP pool to 1,555,556 options.
+
+New Pool Allocation:
+- Existing granted options: 650,000
+- Available from current pool: 350,000
+- New options created: 555,556
+- Total available for future grants: 905,556
+
+IMPACT ANALYSIS
+----------------
+The expansion will result in proportional dilution to all existing shareholders:
+- Founder holdings: Diluted by approximately 4.5%
+- Investor holdings: Diluted proportionally
+- The additional pool will support hiring for the next 18-24 months
+
+DISCUSSION
+-----------
+- Mr. Rajesh Menon (Independent Director) recommended implementing a performance-linked vesting component for senior hires to align incentives.
+- Ms. Sarah Chen (Sequoia nominee) supported the expansion but requested quarterly reporting on ESOP utilization.
+- Mr. Vikram Bajaj (Accel nominee) suggested implementing anti-dilution provisions for the ESOP pool in future funding rounds.
+- Ms. Neha Gupta confirmed that the expanded pool would primarily be used for: (a) 5 VP/CXO level hires — estimated 300,000 options, (b) Senior engineers and product managers — estimated 200,000 options, (c) Performance-based top-up grants for existing high performers — estimated 150,000 options, (d) Buffer for future needs — estimated 255,556 options.
+
+RESOLUTION
+-----------
+RESOLVED THAT pursuant to Section 62(1)(b) of the Companies Act, 2013 and the provisions of the Securities and Exchange Board of India (Share Based Employee Benefits and Sweat Equity) Regulations, 2021, and subject to the approval of the shareholders by way of a special resolution:
+
+1. The ESOP pool of TechVentures Pvt. Ltd. be expanded from 10% to 15% of the fully diluted share capital.
+2. An additional 555,556 stock options be created and added to the existing ESOP pool.
+3. The Compensation Committee be authorized to determine the terms of grants from the expanded pool.
+4. The Company Secretary be directed to file the necessary forms with the Registrar of Companies within 30 days.
+
+VOTING
+-------
+For: 6 votes (Unanimous)
+Against: 0 votes
+Abstained: 0 votes
+
+The resolution was PASSED UNANIMOUSLY.
+
+ADDITIONAL DIRECTIVES
+----------------------
+1. The Compensation Committee shall provide quarterly reports on ESOP utilization to the Board.
+2. A performance-linked vesting component shall be introduced for grants exceeding 50,000 options.
+3. The Company shall engage an independent valuer to determine the updated FMV post-expansion.
+
+Signed:
+Rahul Sharma
+Chairman of the Board
+Date: December 15, 2023

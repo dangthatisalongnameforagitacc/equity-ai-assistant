@@ -1,0 +1,85 @@
+VESTING SCHEDULE — FREQUENTLY ASKED QUESTIONS (FAQ)
+=====================================================
+TechVentures Pvt. Ltd. — HR & Legal Team
+Last Updated: February 2024
+
+Q1: What is vesting?
+A: Vesting is the process by which you earn the right to your stock options over time. When options "vest," they become exercisable, meaning you can convert them into actual company shares by paying the exercise price. Until options vest, they are merely a promise and cannot be exercised.
+
+Q2: What is a cliff period?
+A: A cliff is the minimum period you must work before any of your options vest. At TechVentures, the cliff period is 12 months. This means if you leave before completing 1 year, you forfeit ALL your stock options — none of them will have vested. After the cliff, 25% of your total grant vests at once.
+
+Q3: What happens after the cliff?
+A: After the 12-month cliff, the remaining 75% of your options vest quarterly over the next 3 years (36 months). Each quarter, 6.25% of your total grant vests. This continues until all options are fully vested at the end of 4 years.
+
+Q4: Can my vesting be accelerated?
+A: Yes, in the following scenarios:
+   - Single Trigger: If the company is acquired or goes through an IPO, 50% of your unvested options vest immediately.
+   - Double Trigger: If you are let go without cause within 12 months after an acquisition, 100% of your remaining unvested options vest immediately.
+   - Performance Acceleration: The Compensation Committee may accelerate vesting for exceptional performance, but this is rare and discretionary.
+
+Q5: What happens to my options if I resign?
+A: If you resign voluntarily:
+   - Vested options: You have 90 days from your last working day to exercise them. After 90 days, unexercised vested options are forfeited.
+   - Unvested options: All unvested options are immediately forfeited upon resignation. There is no pro-rata vesting for partial quarters.
+
+Q6: What happens if I am terminated?
+A: It depends on the reason:
+   - Terminated WITHOUT cause (layoff, restructuring): You have 180 days to exercise vested options.
+   - Terminated FOR cause (misconduct, policy violation): ALL options — both vested and unvested — are immediately forfeited. You lose everything.
+
+Q7: What happens to my options if I go on a long leave?
+A: If you take an approved leave of absence (maternity, medical, sabbatical):
+   - Leaves up to 3 months: Vesting continues normally.
+   - Leaves of 3-6 months: Vesting is paused for the duration of the leave and resumes upon return. Your total vesting period is extended by the leave duration.
+   - Leaves exceeding 6 months: Treated on a case-by-case basis by the Compensation Committee.
+
+Q8: What happens in the case of death or disability?
+A: In the unfortunate event of death or permanent disability:
+   - All vested options can be exercised by the legal nominee/heir within 12 months.
+   - The Compensation Committee has the discretion to vest a portion or all of the unvested options as a compassionate measure.
+
+Q9: How does vesting work for promotions or role changes?
+A: Your existing grant continues to vest on its original schedule. However, promotions often come with an additional "top-up" grant, which will have its own separate 4-year vesting schedule and 1-year cliff.
+
+Q10: Can I sell my vested shares?
+A: Before IPO/Listing:
+   - Company-facilitated secondary sales may be offered during liquidity events.
+   - You cannot sell shares on the open market.
+   - Private sales require Board approval and are subject to Right of First Refusal (ROFR).
+   After IPO/Listing:
+   - Pre-IPO grants are subject to a 1-year lock-in period from the listing date.
+   - After the lock-in period, shares can be freely traded on the stock exchange.
+
+Q11: What is the exercise price and how is it determined?
+A: The exercise price is the price you pay per share when converting your options into actual shares. Common approaches at TechVentures:
+   - Standard grants: Exercise price = Fair Market Value (FMV) at the time of grant (currently Rs. 450/share as of January 2024)
+   - Discounted grants: Exercise price below FMV, typically for early employees or exceptional talent
+   - Face value grants: Rs. 10/share, reserved for founding team and Board-approved exceptions
+
+Q12: What are the tax implications of exercising options?
+A: Two tax events occur:
+   1. At Exercise: The difference between the FMV on the exercise date and your exercise price is treated as a "perquisite" and added to your salary income for that year. The company deducts TDS on this amount.
+   2. At Sale: Capital gains tax applies on the difference between the sale price and the FMV on the exercise date. If held for more than 24 months, LTCG at 20% applies. Otherwise, STCG at your income tax slab rate applies.
+
+Q13: How many options have been granted company-wide?
+A: As of February 2024:
+   - Total ESOP pool: 1,000,000 options (10% of fully diluted capital)
+   - Options granted: 650,000
+   - Options vested: 280,000
+   - Options exercised: 50,000
+   - Options available for future grants: 350,000
+   - Note: The Board has approved expanding the pool to 15% (see Board Resolution dated December 15, 2023)
+
+Q14: What is the current value of my options?
+A: The current FMV is Rs. 2,500 per share (based on Series B valuation of January 2024). If you were granted options with an exercise price of Rs. 450:
+   - Value per option = Rs. 2,500 - Rs. 450 = Rs. 2,050 (before tax)
+   - For 10,000 options, your pre-tax paper value = Rs. 2,05,00,000 (2.05 Crores)
+   Note: This is unrealized value. Actual value depends on when you exercise and sell, and the prevailing share price at that time.
+
+Q15: Who do I contact for ESOP-related queries?
+A: Contact the People Operations team:
+   - Email: esop@techventures.com
+   - Slack Channel: #esop-queries
+   - Office Hours: Every Wednesday, 2-4 PM with the ESOP Administrator
+   - For complex queries: Request a meeting with the Compensation Committee via your HRBP

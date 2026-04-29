@@ -1,0 +1,100 @@
+EMPLOYEE STOCK OPTION PLAN (ESOP) POLICY 2024
+===============================================
+Company: TechVentures Pvt. Ltd.
+Effective Date: January 1, 2024
+Approved by: Board of Directors
+
+1. PURPOSE
+----------
+This Employee Stock Option Plan ("ESOP" or "Plan") is established to attract, retain, and motivate talented employees by providing them with an opportunity to acquire an ownership interest in TechVentures Pvt. Ltd. ("Company").
+
+2. ELIGIBILITY
+--------------
+All full-time employees who have completed 6 months of continuous service are eligible for ESOP grants. This includes:
+- Full-time employees across all departments
+- Key Management Personnel (KMP)
+- Directors (excluding Independent Directors and Promoter Directors)
+
+Consultants, advisors, and part-time employees are NOT eligible under this plan.
+
+3. ESOP POOL
+------------
+The Company has reserved 10% of the fully diluted share capital for the ESOP pool. This translates to 1,000,000 (Ten Lakh) stock options as of the plan effective date.
+
+Pool Allocation Breakdown:
+- Engineering & Technology: 40% (400,000 options)
+- Product & Design: 15% (150,000 options)
+- Sales & Marketing: 15% (150,000 options)
+- Operations: 10% (100,000 options)
+- Leadership & CXO: 15% (150,000 options)
+- Future Hires Reserve: 5% (50,000 options)
+
+4. VESTING SCHEDULE
+-------------------
+Standard vesting follows a 4-year schedule with a 1-year cliff:
+
+Year 1 (Cliff): 25% of granted options vest after completing 12 months from the grant date. No options vest before the cliff period.
+Year 2: Additional 25% vest (6.25% per quarter)
+Year 3: Additional 25% vest (6.25% per quarter)
+Year 4: Final 25% vest (6.25% per quarter)
+
+Total vesting period: 48 months
+Cliff period: 12 months
+Post-cliff vesting: Quarterly
+
+Example: If an employee is granted 10,000 options on January 1, 2024:
+- Jan 1, 2025: 2,500 options vest (cliff)
+- Apr 1, 2025: 625 additional options vest
+- Jul 1, 2025: 625 additional options vest
+- [continues quarterly until Jan 1, 2028]
+
+5. EXERCISE PRICE
+-----------------
+The exercise price for each option shall be determined by the Compensation Committee at the time of grant. The exercise price may be:
+- At Fair Market Value (FMV) as determined by an independent valuer
+- At a discount to FMV, subject to applicable tax implications
+- At face value (Rs. 10 per share) for exceptional grants approved by the Board
+
+Current FMV as of January 2024: Rs. 450 per share
+Face Value: Rs. 10 per share
+
+6. EXERCISE WINDOW
+-------------------
+Once options are vested, employees can exercise them:
+- During employment: Anytime after vesting
+- After resignation: Within 90 days of the last working day
+- After termination for cause: All unvested AND vested but unexercised options are forfeited immediately
+- After termination without cause: Within 180 days of termination date
+- In case of death: Legal heirs have 12 months to exercise vested options
+
+7. ACCELERATION PROVISIONS
+---------------------------
+a) Single Trigger Acceleration:
+   In the event of a Change of Control (acquisition, merger, or IPO), 50% of unvested options will immediately vest.
+
+b) Double Trigger Acceleration:
+   If an employee is terminated without cause within 12 months following a Change of Control, 100% of remaining unvested options will immediately vest.
+
+c) Performance-Based Acceleration:
+   The Compensation Committee may, at its discretion, accelerate vesting for employees who achieve exceptional performance milestones.
+
+8. TAX TREATMENT
+-----------------
+- At Exercise: The difference between FMV and exercise price is treated as a perquisite and taxed as income under "Salary" head.
+- At Sale: Capital gains tax applies. If shares are held for more than 24 months after exercise, Long Term Capital Gains (LTCG) at 20% with indexation applies. Otherwise, Short Term Capital Gains (STCG) at the applicable slab rate.
+- TDS: The company will deduct TDS at the time of exercise on the perquisite value.
+
+9. TRANSFER RESTRICTIONS
+-------------------------
+- Options are personal to the grantee and are non-transferable
+- Shares acquired on exercise are subject to a 1-year lock-in period from the date of listing (for pre-IPO grants)
+- Shares cannot be pledged during the lock-in period
+
+10. ADMINISTRATION
+-------------------
+The Plan is administered by the Compensation Committee consisting of:
+- 2 Independent Directors
+- 1 Nominee Director
+- Chief People Officer (non-voting member)
+
+The Committee meets quarterly to review grants, approve exercises, and address employee queries.

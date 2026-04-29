@@ -1,0 +1,118 @@
+CAP TABLE SUMMARY — TECHVENTURES PVT. LTD.
+=============================================
+Last Updated: March 2024
+Prepared by: Finance & Legal Team
+
+COMPANY OVERVIEW
+-----------------
+Company Name: TechVentures Pvt. Ltd.
+Incorporation Date: March 15, 2019
+Authorized Share Capital: Rs. 50,00,000 (Fifty Lakhs) divided into 50,00,000 equity shares of Rs. 10 each
+Current Valuation: Rs. 2,500 Crores (Post-Money, Series B)
+
+SHARE CAPITAL STRUCTURE
+------------------------
+Total Issued Shares: 10,000,000 (One Crore)
+Fully Diluted Shares: 11,111,111 (including ESOP pool)
+
+FUNDING HISTORY
+================
+
+1. INCORPORATION (March 2019)
+   - Shares Issued: 1,000,000
+   - Price Per Share: Rs. 10 (Face Value)
+   - Amount Raised: Rs. 1,00,00,000 (1 Crore)
+   - Founders:
+     * Rahul Sharma (CEO): 600,000 shares (60%)
+     * Priya Patel (CTO): 300,000 shares (30%)
+     * Amit Kumar (COO): 100,000 shares (10%)
+
+2. ANGEL ROUND (September 2020)
+   - New Shares Issued: 200,000
+   - Price Per Share: Rs. 100
+   - Pre-Money Valuation: Rs. 10 Crores
+   - Amount Raised: Rs. 2,00,00,000 (2 Crores)
+   - Investors:
+     * Mumbai Angels Network: 120,000 shares
+     * Individual Angel Investors (3): 80,000 shares
+   - Post-Round Dilution: 16.67%
+
+3. SEED ROUND (June 2021)
+   - New Shares Issued: 500,000
+   - Price Per Share: Rs. 400
+   - Pre-Money Valuation: Rs. 68 Crores
+   - Amount Raised: Rs. 20,00,00,000 (20 Crores)
+   - Lead Investor: Sequoia Surge
+   - Investors:
+     * Sequoia Surge: 350,000 shares
+     * Existing Angels (pro-rata): 100,000 shares
+     * Strategic Angel: 50,000 shares
+   - Post-Round Dilution: 29.41%
+
+4. SERIES A (February 2023)
+   - New Shares Issued: 1,500,000
+   - Price Per Share: Rs. 1,000
+   - Pre-Money Valuation: Rs. 320 Crores
+   - Amount Raised: Rs. 150,00,00,000 (150 Crores)
+   - Lead Investor: Accel Partners
+   - Investors:
+     * Accel Partners: 1,000,000 shares
+     * Sequoia Surge (follow-on): 300,000 shares
+     * Tiger Global: 200,000 shares
+   - Post-Round Dilution: 31.91%
+
+5. SERIES B (January 2024)
+   - New Shares Issued: 2,000,000
+   - Price Per Share: Rs. 2,500
+   - Pre-Money Valuation: Rs. 2,000 Crores
+   - Amount Raised: Rs. 500,00,00,000 (500 Crores)
+   - Lead Investor: SoftBank Vision Fund
+   - Investors:
+     * SoftBank Vision Fund: 1,200,000 shares
+     * Accel Partners (follow-on): 400,000 shares
+     * GIC (Singapore): 400,000 shares
+   - Post-Round Dilution: 27.78%
+
+CURRENT SHAREHOLDING PATTERN (Post Series B)
+==============================================
+Total Shares: 10,000,000
+
+| Shareholder              | Shares      | Percentage |
+|--------------------------|-------------|------------|
+| Rahul Sharma (CEO)       | 600,000     | 6.00%      |
+| Priya Patel (CTO)        | 300,000     | 3.00%      |
+| Amit Kumar (COO)         | 100,000     | 1.00%      |
+| Mumbai Angels Network    | 120,000     | 1.20%      |
+| Individual Angels        | 80,000      | 0.80%      |
+| Sequoia Surge            | 750,000     | 7.50%      |
+| Strategic Angel          | 50,000      | 0.50%      |
+| Accel Partners           | 1,400,000   | 14.00%     |
+| Tiger Global             | 200,000     | 2.00%      |
+| SoftBank Vision Fund     | 1,200,000   | 12.00%     |
+| GIC (Singapore)          | 400,000     | 4.00%      |
+| ESOP Pool (reserved)     | 1,000,000   | 10.00%     |
+| Unallocated/Treasury     | 2,800,000   | 28.00%     |
+
+ESOP POOL STATUS
+=================
+Total ESOP Pool: 1,000,000 options (10% of fully diluted)
+Granted: 650,000 options
+Vested: 280,000 options
+Exercised: 50,000 options
+Available for Future Grants: 350,000 options
+
+DILUTION ANALYSIS
+==================
+Founder dilution from incorporation to Series B:
+- Rahul Sharma: 60% → 6.00% (90% dilution)
+- Priya Patel: 30% → 3.00% (90% dilution)
+- Amit Kumar: 10% → 1.00% (90% dilution)
+
+Combined founder holding: 100% → 10.00%
+Combined investor holding: 0% → 42.00%
+ESOP Pool: 0% → 10.00%
+
+VALUE CREATION
+===============
+Share price appreciation: Rs. 10 → Rs. 2,500 (250x)
+Company valuation growth: Rs. 1 Crore → Rs. 2,500 Crores

@@ -8,7 +8,7 @@ class Settings:
     """Application configuration loaded from environment variables."""
 
     GOOGLE_API_KEY: str = os.getenv("GOOGLE_API_KEY", "")
-    MODEL_NAME: str = os.getenv("MODEL_NAME", "gemini-1.5-flash")
+    MODEL_NAME: str = os.getenv("MODEL_NAME", "gemini-2.5-flash")
     EMBEDDING_MODEL: str = os.getenv("EMBEDDING_MODEL", "text-embedding-004")
 
     CHROMA_PERSIST_DIR: str = os.getenv("CHROMA_PERSIST_DIR", "./chroma_db")
